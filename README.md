@@ -5,4 +5,4 @@
 2. I'm 36
 3. Like Mad Caddies band
 
-![photo]()
+![photo](https://github.com/AlelksandrGeneralov/cv/blob/main/photo.jpg)
